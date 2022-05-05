@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayeet0142
+- 👋 Hi, I’m @mayankmandal
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on how to learn python and javascript
